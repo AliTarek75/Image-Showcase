@@ -6,4 +6,5 @@ Another way to view the images is in a **Card Layout**, where each image is wrap
 The card layout is available on another page at `/cards`.
 
 ## Run  
-Open the page directly on **GitHub Pages** — no setup required. 
+- [Grid Layout](https://alitarek75.github.io/image-showcase/)
+- [Card Layout](https://alitarek75.github.io/image-showcase/cards)
